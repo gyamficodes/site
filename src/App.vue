@@ -92,6 +92,11 @@
                     <i class="lni lni-user text-[35px]"></i>
           </div>
           <!-- menu end -->
+               <!-- menu start -->
+               <div @click="handleScrollToView('.skill-view')" class=" h-[92px] w-full flex-items-full-center border-b-2 border-[#293245] text-white cursor-pointer hover:bg-tona-blue ">
+                    <i class="lni lni-rocket text-[35px]"></i>
+          </div>
+          <!-- menu end -->
 
                   <!-- menu start -->
                   <div  @click="handleScrollToView('#esp-view')" title="Esperience" class=" h-[92px] w-full flex-items-full-center border-b-2 border-[#293245] text-white cursor-pointer hover:bg-tona-blue ">
@@ -100,11 +105,7 @@
           </div>
           <!-- menu end -->
 
-                  <!-- menu start -->
-                  <div @click="handleScrollToView('.skill-view')" class=" h-[92px] w-full flex-items-full-center border-b-2 border-[#293245] text-white cursor-pointer hover:bg-tona-blue ">
-                    <i class="lni lni-rocket text-[35px]"></i>
-          </div>
-          <!-- menu end -->
+             
 
                   <!-- menu start -->
                   <div @click="handleScrollToView('.project-view')" title="Project" class=" h-[92px] w-full flex-items-full-center border-b-2 border-[#293245] text-white cursor-pointer hover:bg-tona-blue ">
