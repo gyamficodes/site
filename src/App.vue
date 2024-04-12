@@ -151,7 +151,7 @@
                   <a href="mailto:gyamfijohn08@gmail.com"><span class="text-white">Hire Me</span></a>
                 </div>
                 <div class="py-2 px-6 w-[100%] sm:w-[180px] flex-items-full-center border-[1px] border-white rounded-lg cursor-pointer  hover:bg-tona-blue hover:border-tona-blue">
-                 <a href="/GyamfiResume.pdf"  download="GyamfiResume.pdf"> <span class="text-white ">Download CV</span></a>
+                 <a href="/GyamfiJohnResume.pdf"  download="GyamfiJohnResume.pdf"> <span class="text-white ">Download CV</span></a>
                 </div>
               </div>
 
