@@ -355,6 +355,7 @@
                           <a href="#" class="bg-[#16213B] border block px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">MVC</a>
                           <a href="#" class="bg-[#16213B] border block px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">Jira</a>
                           <a href="#" class="bg-[#16213B] border block px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">TailwindCss</a>
+                          <a href="#" class="bg-[#16213B] border block px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">Azure Devoops</a>
                           <a href="#" class="bg-[#16213B] border block px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">MSSQL</a>
                      </div>
                       </div>
