@@ -159,7 +159,7 @@
             </div>
             <div class="relative body-view mt-[70px]">
               <div class=" absolute w-[250px] h-[250px]   rounded-full bg-tona-blue left-[25%] top-[30%] animate-ping"></div>
-              <img :src="PortFolioImage" alt="portfolio"  class="z-[1] relative"/>
+              <img :src="PortFolioImage" alt="portfolio"   class="z-[1] relative"/>
             </div>
           </div>
           <!-- Banner section end -->
