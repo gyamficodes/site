@@ -438,8 +438,8 @@
                     <div class="group w-full h-[240px] relative cursor-pointer ">
                       <div class=" bg-[#000000d7] absolute w-full h-0 flex items-center overflow-hidden justify-center flex-col gap-2 px-5 text-center transition-all ease-in-out duration-300 group-hover:h-full">
                         <h3 class="text-white font-bold text-[25px]">Safe and Sound Real Estate</h3>
-                        <span class="text-white text-sm">The property management app for real estate. I worked as Frontend developer at Hardworking America</span>
-                        <span class="text-white text-sm">Tech Stack: Vue.js, Nuxt.Js, TypeScript, vite, Typescript,Taiwind Css,Vitest,StoryBook,Jquery .</span>
+                        <span class="text-white text-[13px] sm:text-s">The property management app for real estate. I worked as Frontend developer at Hardworking America</span>
+                        <span class="text-white text-[15px] sm:text-sm">Tech Stack: Vue.js, Nuxt.Js, TypeScript, vite, Typescript,Taiwind Css,Vitest,StoryBook,Jquery .</span>
                         <a class="mt-8 border border-new-500 rounded-md px-8 py-2 text-sm text-white gallery" href="https://safeandsoundrealestate.com">View Project</a>
                       </div>
                       <img class="w-full h-full object-cover" :src="safe" alt="project"/>
@@ -448,8 +448,8 @@
                     <div class="group w-full h-[240px] relative cursor-pointer ">
                       <div class=" bg-[#000000d7] absolute w-full h-0 flex items-center overflow-hidden justify-center flex-col gap-2 px-5 text-center transition-all ease-in-out duration-300 group-hover:h-full">
                         <h3 class="text-white font-bold text-[25px]">Fennelsoft</h3>
-                        <span class="text-white text-sm">Providing Business-Driven IT Excellence Software.  I worked as a frontend Developer at Fennelsoft company</span>
-                        <span class="text-white text-sm">  Tech Stack: HTML, CSS, Tailwind, JavaScript, Blazor (C#), Jquery. </span>
+                        <span class="text-white text-[13px] sm:text-s">Providing Business-Driven IT Excellence Software.  I worked as a frontend Developer at Fennelsoft company</span>
+                        <span class="text-white text-[15px] sm:text-sm">  Tech Stack: HTML, CSS, Tailwind, JavaScript, Blazor (C#), Jquery. </span>
                         <a class="mt-8 border border-new-500 rounded-md px-8 py-2 text-sm text-white gallery" href="https://fennelsoft.com">View Project</a>
                       </div>
                       <img class="w-full h-full object-cover" :src="fennel" alt="project"/>
@@ -457,9 +457,9 @@
 
                     <div class="group w-full h-[240px] relative cursor-pointer ">
                       <div class=" bg-[#000000d7] absolute w-full h-0 flex items-center overflow-hidden justify-center flex-col gap-2 px-5 text-center transition-all ease-in-out duration-300 group-hover:h-full">
-                        <h3 class="text-white font-bold text-[25px]"></h3>
-                        <span class="text-white text-sm">Food delivery platform with diverse cuisine options</span>
-                        <span class="text-white text-sm">Tech Stack: Vue.js, Nuxt.Js, Javascript, vite, Laravel,Vitest,Sass,Jquery .</span>
+                        <h3 class="text-white font-bold text-[15px] sm:text-[25px]">EZI FOOD</h3>
+                        <span class="text-white text-[13px] sm:text-s">Food delivery platform with diverse cuisine options</span>
+                        <span class="text-white text-[15px] sm:text-sm">Tech Stack: Vue.js, Nuxt.Js, Javascript, vite, Laravel,Vitest,Sass,Jquery .</span>
                         <a class="mt-8 border border-new-500 rounded-md px-8 py-2 text-sm text-white gallery" href="https://www.ezifood.com/location">View Project</a>
                       </div>
                       <img class="w-full h-full object-cover" :src="Ezi" alt="project"/>
@@ -467,9 +467,9 @@
 
                     <div class="group w-full h-[240px] relative cursor-pointer ">
                       <div class=" bg-[#000000d7] absolute w-full h-0 flex items-center overflow-hidden justify-center flex-col gap-2 px-5 text-center transition-all ease-in-out duration-300 group-hover:h-full">
-                        <h3 class="text-white font-bold text-[25px]"></h3>
-                        <span class="text-white text-sm">The complete project management system</span>
-                        <span class="text-white text-sm">Tech Stack: React, Redux, Redux Saga, PHP, Laravel, MySQL, Memcache, Laravel Echo</span>
+                        <h3 class="text-white font-bold text-[25px]">The Mr Friday Project</h3>
+                        <span class="text-white text-[13px] sm:text-s">The complete project management system</span>
+                        <span class="text-white text-[15px] sm:text-sm">Tech Stack: React, Redux, Redux Saga, PHP, Laravel, MySQL, Memcache, Laravel Echo</span>
                         <a class="mt-8 border border-new-500 rounded-md px-8 py-2 text-sm text-white gallery" href="https://tmfriday.net/auth/login">View Project</a>
                       </div>
                       <img class="w-full h-full object-cover" :src="friday" alt="project"/>
@@ -478,9 +478,9 @@
 
                     <div class="group w-full h-[240px] relative cursor-pointer ">
                       <div class=" bg-[#000000d7] absolute w-full h-0 flex items-center overflow-hidden justify-center flex-col gap-2 px-5 text-center transition-all ease-in-out duration-300 group-hover:h-full">
-                        <h3 class="text-white font-bold text-[25px]">ClefMate</h3>
-                        <span class="text-white text-sm">Enterprise and secured all-in-one software for managing hotels and guest houses. I work as a Frontend developer at fennelsoft....</span>
-                        <span class="text-white text-sm">  Tech Stack: HTML, CSS, Tailwind, JavaScript, Blazor (C#), Jquery. </span>
+                        <h3 class="text-white font-bold text-[15px] sm:text-[25px]">ClefMate</h3>
+                        <span class="text-white text-[13px] sm:text-s">Enterprise and secured all-in-one software for managing hotels and guest houses. I work as a Frontend developer at fennelsoft....</span>
+                        <span class="text-[15px] sm:text-sm">  Tech Stack: HTML, CSS, Tailwind, JavaScript, Blazor (C#), Jquery. </span>
                         <a class="mt-8 border border-new-500 rounded-md px-8 py-2 text-sm text-white gallery" href="https://clefmate.com">View Project</a>
                       </div>
                       <img class="w-full h-full object-cover" :src="clef" alt="project"/>
@@ -488,9 +488,9 @@
 
                     <div class="group w-full h-[240px] relative cursor-pointer ">
                       <div class=" bg-[#000000d7] absolute w-full h-0 flex items-center overflow-hidden justify-center flex-col gap-2 px-5 text-center transition-all ease-in-out duration-300 group-hover:h-full">
-                        <h3 class="text-white font-bold text-[25px]">SikapaTravel</h3>
-                        <span class="text-white text-sm">Travel Agency  Channel app, this help people to connect to the company so they can help them travel around the globe.</span>
-                        <span class="text-white text-sm">  Tech Stack: HTML, CSS, Tailwind, JavaScript, Umbraco, Jquery. </span>
+                        <h3 class="text-white font-bold text-[15px] sm:text-[25px]">SikapaTravel</h3>
+                        <span class="text-white text-[13px] sm:text-s">Travel Agency  Channel app, this help people to connect to the company so they can help them travel around the globe.</span>
+                        <span class="text-white text-[15px] sm:text-sm">  Tech Stack: HTML, CSS, Tailwind, JavaScript, Umbraco, Jquery. </span>
                         <a class="mt-8 border border-new-500 rounded-md px-8 py-2 text-sm text-white gallery" href="https://Sikapatravel.com">View Project</a>
                       </div>
                       <img class="w-full h-full object-cover" :src="sika" alt="project"/>
@@ -498,15 +498,24 @@
 
                     <div class="group w-full h-[240px] relative cursor-pointer ">
                       <div class=" bg-[#000000d7] absolute w-full h-0 flex items-center overflow-hidden justify-center flex-col gap-2 px-5 text-center transition-all ease-in-out duration-300 group-hover:h-full">
-                        <h3 class="text-white font-bold text-[25px]">RAMS Engineering & Asset Management Consultancy Limited</h3>
-                        <span class="text-white text-sm">Consultancy Limited Reliable and professional reliability, safety, and asset management firm. I worked as a frontend developer at Ezitek Solutions</span>
-                        <span class="text-white text-sm">  Tech Stack: HTML, CSS, Sass, Bootstrap, JavaScript, jQuery. </span>
+                        <h3 class="text-white font-bold text-[15px] sm:text-[25px]]">RAMS Engineering & Asset Management Consultancy Limited</h3>
+                        <span class="text-white text-[13text-[13px] sm:text-smpx] ">Consultancy Limited Reliable and professional reliability, safety, and asset management firm. I worked as a frontend developer at Ezitek Solutions</span>
+                        <span class="text-white text-[15px] sm:text-sm">  Tech Stack: HTML, CSS, Sass, Bootstrap, JavaScript, jQuery. </span>
                         <a class="mt- border border-new-500 rounded-md px-8 py-2 text-sm text-white gallery" href="https://www.reamc.com/">View Project</a>
                       </div>
                       <img class="w-full h-full object-cover" :src="contact" alt="project"/>
                     </div>
 
-                  
+                    <div class="group w-full h-[240px] relative cursor-pointer ">
+                      <div class=" bg-[#000000d7] absolute w-full h-0 flex items-center overflow-hidden justify-center flex-col gap-2 px-5 text-center transition-all ease-in-out duration-300 group-hover:h-full">
+                        <h3 class="text-white font-bold text-[15px] sm:text-[25px]">Ecormence Advance Filtering App</h3>
+                        <span class="text-white ">Experience seamless online shopping with my advanced e-commerce filter app, a side project built with React, Tailwind CSS, and JavaScript. It offers personalized product searches for a streamlined shopping experience.</span>
+                        <span class="text-white text-[15px] sm:text-sm">  Tech Stack: React ,Tailwind Css, Javascript </span>
+                        <a class="mt- border border-new-500 rounded-md px-8 py-2 text-sm text-white gallery" href="https://e-commerce-advance-filtering-dusky.vercel.app/">View Project</a>
+                      </div>
+                      <img class="w-full h-full object-cover" :src="Ecor" alt="project"/>
+                    </div>
+
 
 
                   </div>
@@ -549,11 +558,12 @@ import safe from "./assets/Images/project/safe.png";
 import contact from "./assets/Images/project/contact.png";
 import sika from "./assets/Images/project/sikapa.png";
 import friday from "./assets/Images/project/friday.png";
+import Ecormence from "./assets/Images/project/Ecormence.png";
 import { ref } from 'vue'
 
 const showIcon = ref<boolean>(true);
 const fennel = ref<string>(fennelsoft)
-
+const Ecor =  ref<string>(Ecormence);
 
 function handdleChangeIcon(){
   showIcon.value = !showIcon.value;
