@@ -537,6 +537,28 @@
               <div class="group w-full h-[280px] relative cursor-pointer">
                 <div
                   class="bg-[#000000d7] absolute w-full h-0 flex items-center overflow-hidden justify-center flex-col gap-2 px-5 text-center transition-all ease-in-out duration-300 group-hover:h-full">
+                  <h3 class="text-white font-bold text-[20px] sm:text-[25px]">RAMS Engineering</h3>
+                  <span class="text-white text-[13px] sm:text-sm">
+                    Redesigned corporate website with WCAG-compliant UI/UX, increasing leads by 15% while achieving 95+
+                    Lighthouse scores.
+                  </span>
+                  <span class="text-white text-[15px] sm:text-sm">
+                    Tech Stack: HTML5, CSS3, JavaScript, jQuery, TailwindCSS
+                  </span>
+                  <div class="flex flex-wrap justify-center gap-2 mt-2">
+                    <span class="bg-[#ffffff20] px-2 py-1 rounded-full text-white text-xs">WCAG 2.1 AA</span>
+                    <span class="bg-[#ffffff20] px-2 py-1 rounded-full text-white text-xs">15% Lead Increase</span>
+                    <span class="bg-[#ffffff20] px-2 py-1 rounded-full text-white text-xs">95+ Scores</span>
+                  </div>
+                  <a class="mt-4 border border-new-500 rounded-md px-8 py-2 text-sm text-white gallery hover:bg-new-500 hover:text-white transition-colors duration-300"
+                    href="https://www.reamc.com/" target="_blank">View Project</a>
+                </div>
+                <img class="w-full h-full object-cover" :src="contact" alt="RAMS Engineering WCAG-compliant website" />
+              </div>
+
+              <div class="group w-full h-[280px] relative cursor-pointer">
+                <div
+                  class="bg-[#000000d7] absolute w-full h-0 flex items-center overflow-hidden justify-center flex-col gap-2 px-5 text-center transition-all ease-in-out duration-300 group-hover:h-full">
                   <h3 class="text-white font-bold text-[25px]">ClefMate Hotel SaaS</h3>
                   <span class="text-white text-[13px] sm:text-s">
                     Comprehensive hotel management platform serving 60+ clients, contributing 30% of company revenue
@@ -658,27 +680,7 @@
 
 
 
-              <div class="group w-full h-[280px] relative cursor-pointer">
-                <div
-                  class="bg-[#000000d7] absolute w-full h-0 flex items-center overflow-hidden justify-center flex-col gap-2 px-5 text-center transition-all ease-in-out duration-300 group-hover:h-full">
-                  <h3 class="text-white font-bold text-[20px] sm:text-[25px]">RAMS Engineering</h3>
-                  <span class="text-white text-[13px] sm:text-sm">
-                    Redesigned corporate website with WCAG-compliant UI/UX, increasing leads by 15% while achieving 95+
-                    Lighthouse scores.
-                  </span>
-                  <span class="text-white text-[15px] sm:text-sm">
-                    Tech Stack: HTML5, CSS3, JavaScript, jQuery, TailwindCSS
-                  </span>
-                  <div class="flex flex-wrap justify-center gap-2 mt-2">
-                    <span class="bg-[#ffffff20] px-2 py-1 rounded-full text-white text-xs">WCAG 2.1 AA</span>
-                    <span class="bg-[#ffffff20] px-2 py-1 rounded-full text-white text-xs">15% Lead Increase</span>
-                    <span class="bg-[#ffffff20] px-2 py-1 rounded-full text-white text-xs">95+ Scores</span>
-                  </div>
-                  <a class="mt-4 border border-new-500 rounded-md px-8 py-2 text-sm text-white gallery hover:bg-new-500 hover:text-white transition-colors duration-300"
-                    href="https://www.reamc.com/" target="_blank">View Project</a>
-                </div>
-                <img class="w-full h-full object-cover" :src="contact" alt="RAMS Engineering WCAG-compliant website" />
-              </div>
+             
               <div class="group w-full h-[240px] relative cursor-pointer ">
                 <div
                   class=" bg-[#000000d7] absolute w-full h-0 flex items-center overflow-hidden justify-center flex-col gap-2 px-5 text-center transition-all ease-in-out duration-300 group-hover:h-full">
