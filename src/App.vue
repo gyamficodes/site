@@ -755,11 +755,11 @@
 import PortFolioImage from './assets/Images/model.png'
 import fennelsoft from "./assets/Images/project/fennesoft.png"
 import Wave from './assets/Images/waving-hand.svg'
-import clef from "./assets/Images/project/clefmate.png";
+// import clef from "./assets/Images/project/clefmate.png";
 import Ezi from "./assets/Images/project/EziFood.png";
 import imaProjectImage from "./assets/Images/project/safe.png";
 import contact from "./assets/Images/project/contact.png";
-import sika from "./assets/Images/project/sikapa.png";
+// import sika from "./assets/Images/project/sikapa.png";
 import clefmate from "./assets/Images/project/friday.png";
 import Ecormence from "./assets/Images/project/Ecormence.png";
 import Aberfo from "./assets/Images/project/aberfo.png";
