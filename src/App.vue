@@ -782,6 +782,7 @@ import contact from "./assets/Images/project/contact.png";
 import clefmate from "./assets/Images/project/friday.png";
 import Ecormence from "./assets/Images/project/Ecormence.png";
 import Aberfo from "./assets/Images/project/aberfo.png";
+import Nimavenue from "./assets/Images/project/nimavenue.png";
 import tech from "./assets/Images/project/tech.png";
 import { ref } from 'vue'
 
