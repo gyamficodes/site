@@ -185,12 +185,10 @@
               </div>
               <h1 class="text-[40px] md:text-[40px] font-semibold leading-tight text-white mt-[-25px]">
                 Gyamfi John <br />
-                <span class="text-primary">Full-Stack Developer</span> | UI/UX Designer
+                <span class="text-primary">Full-Stack Developer</span> 
               </h1>
 
-              <p class=" text-[#fff]">My love for design and coding began with open-source web development and a deep
-                passion for creating.
-                I’m ready to turn your ideas into reality through clean, thoughtful code and creative solutions.</p>
+              <p class=" text-[#fff]">I fell in love with coding through open-source, where creativity meets problem-solving. Now, I turn ideas into reality with clean, impactful code.</p>
 
               <div class="flex-items-center flex-col sm:flex-row gap-4">
                 <div
@@ -223,14 +221,7 @@
             <div class="border-b border-[#494C5F] pb-3">
               <h3 class="text-white text-2xl capitalize">about</h3>
             </div>
-            <p class="text-[#fff] mt-5"> I am a Full-Stack Developer & UI/UX Designer with 4+ years of experience, based
-              in Ghana.
-              I specialize in building end-to-end web solutions using HTML, CSS, PHP, Vue.js, React, WordPress,
-              PrestaShop, Magento, Joomla, and Umbraco — blending clean design with modern, scalable development.
-
-              With over 3 years of remote work experience collaborating with global teams, I bring strong communication
-              skills, deep CMS and eCommerce expertise, and a passion for crafting impactful digital experiences. From
-              branding to custom builds, I turn concepts into smart, efficient solutions across industries.</p>
+            <p class="text-[#fff] mt-5"> I'm a full-stack developer with 4+ years of experience building web applications using Vue.js, React, PHP, and C#/.NET. I specialize in Umbraco CMS solutions and have delivered measurable results like 30%+ revenue growth and 98% client retention through high-performance systems scoring 90+ in Lighthouse metrics. With 3+ years of remote collaboration with global teams, I combine technical expertise with business-focused development.</p>
 
           </div>
 
@@ -289,12 +280,16 @@
                   <li><a href="#"
                       class="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-xl">Vuex</a>
                   </li>
+                    <li><a href="#"
+                      class="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-xl">React</a>
+                  </li>
+                    <li><a href="#"
+                      class="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-xl">Blazor</a>
+                  </li>
                   <li><a href="#"
                       class="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-xl">Pinia</a>
                   </li>
-                  <li><a href="#"
-                      class="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-xl">React</a>
-                  </li>
+                
                   <li><a href="#"
                       class="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-xl">Next.Js</a>
                   </li>
@@ -313,21 +308,7 @@
 
 
                   <!-- Added based on job description -->
-                  <li><a href="#"
-                      class="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-xl">WordPress</a>
-                  </li>
-                  <li><a href="#"
-                      class="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-xl">WooCommerce</a>
-                  </li>
-                  <li><a href="#"
-                      class="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-xl">Joomla</a>
-                  </li>
-                  <li><a href="#"
-                      class="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-xl">Magento</a>
-                  </li>
-                  <li><a href="#"
-                      class="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-xl">PrestaShop</a>
-                  </li>
+              
                   <li><a href="#"
                       class="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-xl">Umbraco</a>
                   </li>
@@ -364,6 +345,14 @@
                   <li>
                     <a href="#"
                       class="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-xl">Redis</a>
+                  </li>
+                   <li>
+                    <a href="#"
+                      class="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-xl">C#/.NET</a>
+                  </li>
+                  <li>
+                    <a href="#"
+                      class="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-xl">SQLite</a>
                   </li>
                 </div>
               </div>
@@ -458,9 +447,14 @@
                     - Increased conversions by 27% through performance optimizations<br>
                     - Delivered flawless IE11+ support via custom JavaScript SDK<br><br>
 
-                    <strong>IMA Innovate Maritime Africa:</strong><br>
-                    - Developed WordPress website with custom Elementor components<br>
-                    - Implemented SEO strategy increasing organic traffic by 30% YoY<br><br>
+                    <strong>Fennelsoft Technologies Website:</strong><br>
+- Developed company website using <strong>JavaScript, jQuery, Tailwind CSS</strong><br>
+- Implemented frontend best practices:<br>
+  • Semantic HTML5 & responsive design<br>
+  • Optimized DOM manipulation with jQuery<br>
+  • CSS utility-first architecture with Tailwind<br>
+  • Lighthouse performance (90+ scores)<br>
+- Achieved <strong>30% YoY organic traffic growth</strong> through technical SEO enhancements<br><br>
 
                     <strong>Developer Training Program:</strong><br>
                     - Launched developer training program (Vue.js, React, Laravel), mentoring 5+ engineers monthly<br>
@@ -469,14 +463,18 @@
                   <div class="flex items-center flex-wrap gap-1 mt-2">
                     <a href="#"
                       class="bg-[#16213B] border block px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">C#/.NET</a>
+                       <a href="#"
+                      class="bg-[#16213B] border block px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">PHP (Laravel)</a>
                     <a href="#"
                       class="bg-[#16213B] block border px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">Umbraco</a>
                     <a href="#"
-                      class="bg-[#16213B] border block px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">WordPress</a>
+                      class="bg-[#16213B] border block px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">Vue.js</a>
                     <a href="#"
                       class="bg-[#16213B] border block px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">Blazor</a>
                     <a href="#"
                       class="bg-[#16213B] border block px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">TailwindCSS</a>
+                      <a href="#"
+                      class="bg-[#16213B] border block px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">TypeScript</a>
                   </div>
                 </div>
               </div>
@@ -502,6 +500,8 @@
                   <div class="flex items-center flex-wrap gap-1 mt-2">
                     <a href="#"
                       class="bg-[#16213B] border block px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">Vue.js</a>
+                      <a href="#"
+                      class="bg-[#16213B] border block px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">Next.js</a>
                     <a href="#"
                       class="bg-[#16213B] block border px-1 py-1 hover:bg-new-500 hover:text-interface-100 transition duration-300 rounded-md text-white text-[14px]">Laravel</a>
                     <a href="#"
@@ -587,24 +587,7 @@
                   alt="ClefMate Hotel Management System dashboard" />
               </div>
 
-              <div class="group w-full h-[240px] relative cursor-pointer">
-                <div
-                  class="bg-[#000000d7] absolute w-full h-0 flex items-center overflow-hidden justify-center flex-col gap-2 px-5 text-center transition-all ease-in-out duration-300 group-hover:h-full">
-                  <h3 class="text-white font-bold text-[25px]">IMA Innovate Maritime Africa</h3>
-                  <span class="text-white text-[13px] sm:text-sm">
-                    Developed a dynamic WordPress website with custom Elementor components to showcase IMA's mission of
-                    empowering Africa's maritime sector through innovation and entrepreneurship. Implemented SEO
-                    strategies that increased organic traffic by 30% year-over-year.
-                  </span>
-                  <span class="text-white text-[15px] sm:text-sm">
-                    <strong>Tech Stack:</strong> WordPress, Elementor, SEO Optimization
-                  </span>
-                  <a class="mt-2 border border-new-500 rounded-md px-8 py-2 text-sm text-white gallery"
-                    href="https://innovatemaritimeafrica.com/">View Project</a>
-                </div>
-                <img class="w-full h-full object-cover" :src="imaProjectImage"
-                  alt="IMA Innovate Maritime Africa Project" />
-              </div>
+             
 
               <div class="group w-full h-[280px] relative cursor-pointer">
                 <div
@@ -679,7 +662,25 @@
               </div>
 
 
-
+<div class="group w-full h-[240px] relative cursor-pointer">
+  <div class="bg-[#000000d7] absolute w-full h-0 flex items-center overflow-hidden justify-center flex-col gap-2 px-5 text-center transition-all ease-in-out duration-300 group-hover:h-full">
+    <h3 class="text-white font-bold text-[25px]">Nim Avenue Hotel Booking</h3>
+    <span class="text-white text-[13px] sm:text-sm">
+      Built an SMS-based reservation system handling 200+ monthly bookings with 99.9% uptime using Umbraco CMS. 
+      Implemented real-time SMS notifications and payment processing with C# backend.
+    </span>
+    <span class="text-white text-[15px] sm:text-sm">
+      <strong>Tech Stack:</strong> Umbraco, C#, JavaScript, jQuery, Tailwind CSS
+    </span>
+    <div class="mt-2 flex gap-2">
+      <a class="border border-new-500 rounded-md px-4 py-2 text-sm text-white gallery" href="https://nimavenuehotel.com/">
+             View Project
+      </a>
+     
+    </div>
+  </div>
+  <img class="w-full h-full object-cover" :src="Nimavenue" alt="SMS-based Hotel Booking System" />
+</div>
              
               <div class="group w-full h-[240px] relative cursor-pointer ">
                 <div
@@ -720,6 +721,24 @@
                   alt="Kofi Aberfo corporate website built with Umbraco CMS" />
               </div>
 
+               <div class="group w-full h-[240px] relative cursor-pointer">
+                <div
+                  class="bg-[#000000d7] absolute w-full h-0 flex items-center overflow-hidden justify-center flex-col gap-2 px-5 text-center transition-all ease-in-out duration-300 group-hover:h-full">
+                  <h3 class="text-white font-bold text-[25px]">IMA Innovate Maritime Africa</h3>
+                  <span class="text-white text-[13px] sm:text-sm">
+                    Developed a dynamic WordPress website with custom Elementor components to showcase IMA's mission of
+                    empowering Africa's maritime sector through innovation and entrepreneurship. Implemented SEO
+                    strategies that increased organic traffic by 30% year-over-year.
+                  </span>
+                  <span class="text-white text-[15px] sm:text-sm">
+                    <strong>Tech Stack:</strong> WordPress, Elementor, SEO Optimization
+                  </span>
+                  <a class="mt-2 border border-new-500 rounded-md px-8 py-2 text-sm text-white gallery"
+                    href="https://innovatemaritimeafrica.com/">View Project</a>
+                </div>
+                <img class="w-full h-full object-cover" :src="imaProjectImage"
+                  alt="IMA Innovate Maritime Africa Project" />
+              </div>
             </div>
           </div>
 
@@ -754,18 +773,17 @@
 </template>
 
 <script setup lang="ts">
-import PortFolioImage from './assets/Images/model.png'
+import PortFolioImage from './assets/Images/project/model.png'
 import fennelsoft from "./assets/Images/project/fennesoft.png"
 import Wave from './assets/Images/waving-hand.svg'
-// import clef from "./assets/Images/project/clefmate.png";
 import Ezi from "./assets/Images/project/EziFood.png";
 import imaProjectImage from "./assets/Images/project/safe.png";
 import contact from "./assets/Images/project/contact.png";
-// import sika from "./assets/Images/project/sikapa.png";
 import clefmate from "./assets/Images/project/friday.png";
 import Ecormence from "./assets/Images/project/Ecormence.png";
 import Aberfo from "./assets/Images/project/aberfo.png";
 import tech from "./assets/Images/project/tech.png";
+import Nimavenue from "./assets/Images/project/Nimavenue.png";
 import { ref } from 'vue'
 
 const showIcon = ref<boolean>(true);
