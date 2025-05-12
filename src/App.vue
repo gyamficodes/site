@@ -783,7 +783,6 @@ import clefmate from "./assets/Images/project/friday.png";
 import Ecormence from "./assets/Images/project/Ecormence.png";
 import Aberfo from "./assets/Images/project/aberfo.png";
 import tech from "./assets/Images/project/tech.png";
-import Nimavenue from "./assets/Images/project/nimavenue.png";
 import { ref } from 'vue'
 
 const showIcon = ref<boolean>(true);
